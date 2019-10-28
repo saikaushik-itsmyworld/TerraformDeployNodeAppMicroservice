@@ -1,0 +1,4 @@
+#Please list all the files that should be ignored from merging into remote repo
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
